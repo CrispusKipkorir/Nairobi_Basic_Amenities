@@ -1,0 +1,3246 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-04T10:24:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/275554473",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "M. P. Shah Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8119684,
+          -1.2637747
+        ]
+      },
+      "id": "node/275554473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612007438",
+        "amenity": "hospital",
+        "check_date": "2023-04-15",
+        "healthcare": "hospital",
+        "name": "Upendo Vision Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7860504,
+          -1.3078684
+        ]
+      },
+      "id": "node/612007438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612007453",
+        "amenity": "hospital",
+        "check_date": "2023-04-12",
+        "healthcare": "hospital",
+        "name": "New Makina Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7863291,
+          -1.3071984
+        ]
+      },
+      "id": "node/612007453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612007456",
+        "amenity": "hospital",
+        "check_date": "2023-04-12",
+        "healthcare": "hospital",
+        "name": "St Augustus Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.788823,
+          -1.3072303
+        ]
+      },
+      "id": "node/612007456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612007539",
+        "amenity": "hospital",
+        "check_date": "2023-05-12",
+        "contact:phone": "0202724881",
+        "dispensing": "yes",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "varies",
+        "health_facility:referals": "Mbagathi District Hospital,St Mary's Mission Hospital,KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "media:video_device_number": "006",
+        "media:video_number": "1-10\\19",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:disease_support_groups": "HIV/AIDS",
+        "medical_service:family_planning": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:youth_friendly_services": "yes",
+        "medical_staff:medical_officer": "1",
+        "medical_staff:nurse": "4",
+        "medical_staff:pharmacist": "2",
+        "name": "Wema Clinic",
+        "opening_hours": "08:00-21:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7782341,
+          -1.3179274
+        ]
+      },
+      "id": "node/612007539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612007778",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "contact:email": "saolamedcentre@yahoo.com",
+        "contact:phone": "020-2731464",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "100",
+        "health_facility:referals": "IDH,KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:antiretroviral_therapy": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:tb_labs": "yes",
+        "medical_service:tb_treatment": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_service:youth_friendly_services": "yes",
+        "medical_staff:clinical_officer": "0",
+        "medical_staff:community_pharmacist": "0",
+        "medical_staff:counsellor": "2",
+        "medical_staff:general_practitioner": "3",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "0",
+        "medical_staff:midwife": "4",
+        "medical_staff:nurse": "4",
+        "medical_staff:other": "0",
+        "medical_staff:pharm_tech": "0",
+        "medical_staff:pharmacist": "2",
+        "name": "Saola Health Clinic",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7991031,
+          -1.3117185
+        ]
+      },
+      "id": "node/612007778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612008667",
+        "amenity": "hospital",
+        "check_date": "2023-04-15",
+        "contact:email": "kibera@mariestopes.or.ke",
+        "contact:phone": "0721483707",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "above 10",
+        "health_facility:referals": "Marie stopes Eastliegh",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:other": "pregnancy crisis control and gynaecologist",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "no",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:youth_friendly_services": "no",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:nurse": "1",
+        "medical_staff:other": "have 2 assistants",
+        "name": "Marie Stopes Clinic",
+        "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-13:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "often",
+        "operator:type": "ngo_national"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7892032,
+          -1.3079831
+        ]
+      },
+      "id": "node/612008667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612008709",
+        "amenity": "hospital",
+        "check_date": "2023-03-27",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:dental_services": "yes",
+        "medical_service:ear_nose_throat": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:minor_surgery": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_staff:community_pharmacist": "1",
+        "medical_staff:nurse": "1",
+        "name": "Rail Side Clinic",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8028346,
+          -1.31523
+        ]
+      },
+      "id": "node/612008709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612009265",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "health_facility:referals": "KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:minor_surgery": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_staff:nurse": "2",
+        "name": "Mareba Medical Clinic",
+        "opening_hours": "08:00-20:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7834906,
+          -1.3065921
+        ]
+      },
+      "id": "node/612009265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/698467073",
+        "amenity": "hospital",
+        "check_date": "2023-04-05",
+        "contact:email": "makinaclinics@hotmail.com",
+        "contact:phone": "020-3871956/0722-825905",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "20",
+        "health_facility:referals": "KNH,Magqathi,St Marys",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:basic_emergency_obsteric_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:minor_surgery": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:prevention": "Tetanus,Malaria",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:tb_diagnosis": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_service:youth_friendly_services": "yes",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:community_pharmacist": "0",
+        "medical_staff:counsellor": "0",
+        "medical_staff:general_practitioner": "0",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "0",
+        "medical_staff:midwife": "0",
+        "medical_staff:nurse": "2",
+        "medical_staff:other": "0",
+        "medical_staff:pharm_tech": "0",
+        "medical_staff:pharmacist": "0",
+        "name": "Makina Clinic",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operational_status:electricity": "always"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7882765,
+          -1.3100272
+        ]
+      },
+      "id": "node/698467073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/698541835",
+        "amenity": "hospital",
+        "check_date": "2023-04-15",
+        "contact:email": "frepalssnursinghome@yahoo.com",
+        "contact:phone": "020574707 or 020561202",
+        "health_facility:bed": "10",
+        "health_facility:exam_room": "yes",
+        "health_facility:referals": "st mary langata",
+        "health_facility:type": "nursing_home_with_maternity",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:antiretroviral_therapy": "no",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:inpatient": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:counsellor": "1",
+        "medical_staff:general_practitioner": "1",
+        "medical_staff:medical_officer": "1",
+        "medical_staff:nurse": "5",
+        "medical_staff:pharm_tech": "1",
+        "name": "Frepals Maternity",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7923801,
+          -1.3120224
+        ]
+      },
+      "id": "node/698541835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/698592306",
+        "amenity": "hospital",
+        "check_date": "2023-04-03",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "20",
+        "health_facility:referals": "IDH,KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:ear_nose_throat": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:minor_surgery": "yes",
+        "medical_service:other": "also offer gynaecological service",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:clinical_officer": "0",
+        "medical_staff:community_pharmacist": "0",
+        "medical_staff:counsellor": "1",
+        "medical_staff:general_practitioner": "2",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "0",
+        "medical_staff:midwife": "0",
+        "medical_staff:nurse": "3",
+        "medical_staff:pharm_tech": "0",
+        "medical_staff:pharmacist": "1",
+        "name": "Community Royal clinic",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7964847,
+          -1.3138445
+        ]
+      },
+      "id": "node/698592306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/698592324",
+        "amenity": "hospital",
+        "check_date": "2023-04-12",
+        "contact:email": "stangelaschorg@yahoo.com",
+        "contact:phone": "0720483302/ 0715391747",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "15",
+        "health_facility:referals": "KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_service:youth_friendly_services": "no",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:counsellor": "1",
+        "medical_staff:nurse": "2",
+        "name": "St.Angela Clinic",
+        "opening_hours": "Mo-Fr",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "ngo_cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7888229,
+          -1.3072492
+        ]
+      },
+      "id": "node/698592324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/698602291",
+        "amenity": "hospital",
+        "check_date": "2023-04-12",
+        "fixme": "resurvey",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "5-10",
+        "health_facility:referals": "KNH",
+        "health_facility:type": "medical_clinic",
+        "healthcare": "hospital",
+        "mapillary": "776961869689529",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:other": "chemist",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_staff:nurse": "2",
+        "name": "Medical Clinic",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "private",
+        "survey:date": "2018-02-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7825137,
+          -1.3072052
+        ]
+      },
+      "id": "node/698602291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708685749",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "contact:email": "ra.lukoye@yahoo.com",
+        "contact:phone": "0734690659/ 0734690659",
+        "health_facility:bed": "5",
+        "health_facility:cot": "0",
+        "health_facility:referals": "Mbagathi,Kenyatta National Hospital",
+        "health_facility:type": "health_center",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:basic_emergency_obsteric_care": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:disease_support_groups": "HIV",
+        "medical_service:family_planning": "yes",
+        "medical_service:gender_based_violence_services": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:inpatient": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:other": "Maternity",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:prevention": "Polio,Measles",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:tb_diagnosis": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:community_pharmacist": "0",
+        "medical_staff:counsellor": "0",
+        "medical_staff:general_practitioner": "1",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "0",
+        "medical_staff:midwife": "2",
+        "medical_staff:nurse": "2",
+        "medical_staff:other": "0",
+        "medical_staff:pharm_tech": "0",
+        "medical_staff:pharmacist": "1",
+        "name": "Revival Medical Centre",
+        "opening_hours": "06:00-19:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "faith_based_organization"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7753937,
+          -1.3156345
+        ]
+      },
+      "id": "node/708685749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708750146",
+        "amenity": "hospital",
+        "check_date": "2023-04-03",
+        "healthcare": "hospital",
+        "name": "Undugu Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7990986,
+          -1.3179328
+        ]
+      },
+      "id": "node/708750146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708765476",
+        "amenity": "hospital",
+        "check_date": "2023-04-15",
+        "health_facility:referals": "KNH,Magqathi,St Marys",
+        "health_facility:type": "health_center",
+        "healthcare": "hospital",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:basic_emergency_obsteric_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:comprehensive_essential_obsteric_care": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:disease_support_groups": "HIV",
+        "medical_service:family_planning": "yes",
+        "medical_service:gender_based_violence_services": "yes",
+        "medical_service:growth_and_nutritional_support": "yes",
+        "medical_service:home_based_care": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:integrated_management_of_childhood_illness": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:prevention": "STIs",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_service:youth_friendly_services": "yes",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:counsellor": "2",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "1",
+        "medical_staff:nurse": "3",
+        "name": "Natural Health Centre",
+        "opening_hours": "09:00-16:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "sometimes",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7851718,
+          -1.3077733
+        ]
+      },
+      "id": "node/708765476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/878845728",
+        "amenity": "hospital",
+        "name": "Proposed Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8878218,
+          -1.3250666
+        ]
+      },
+      "id": "node/878845728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/878847326",
+        "amenity": "hospital",
+        "name": "AFYA MEDICAL CLINIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8873739,
+          -1.3180392
+        ]
+      },
+      "id": "node/878847326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/927268420",
+        "amenity": "hospital",
+        "check_date": "2023-05-11",
+        "healthcare": "hospital",
+        "name": "University Mobile Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8155523,
+          -1.2796122
+        ]
+      },
+      "id": "node/927268420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/929942246",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Student's Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8107235,
+          -1.2782734
+        ]
+      },
+      "id": "node/929942246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/949597358",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "name": "Mednoor Medical Clinic",
+        "source_ref": "Mukuru on the move"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8863102,
+          -1.3209754
+        ]
+      },
+      "id": "node/949597358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/949597378",
+        "amenity": "hospital",
+        "name": "Sidarec Mukuru Community Clinic",
+        "note": "Moved 300 meters south from source",
+        "source_ref": "Mukuru on the move",
+        "type": "CLINIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8851175,
+          -1.3201306
+        ]
+      },
+      "id": "node/949597378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/949598013",
+        "addr:city": "Nairobi",
+        "amenity": "hospital",
+        "beds": "8",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Alice Nursing Home",
+        "note": "Moved 300 meters south from source",
+        "opening_hours": "24/7",
+        "operator:type": "private",
+        "source_ref": "Mukuru on the move",
+        "tag": "healthcare:counselling=antenatal",
+        "type": "CBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8844394,
+          -1.3144759
+        ]
+      },
+      "id": "node/949598013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/949598225",
+        "amenity": "hospital",
+        "healthcare": "nursing_home",
+        "name": "Huruma Nursing Home",
+        "source_ref": "Mukuru on the move"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8922635,
+          -1.3165544
+        ]
+      },
+      "id": "node/949598225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038193546",
+        "amenity": "hospital",
+        "name": "UnduguMedical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8571557,
+          -1.2644825
+        ]
+      },
+      "id": "node/1038193546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101638771",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Huduma Bora Medics Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8442079,
+          -1.2638847
+        ]
+      },
+      "id": "node/1101638771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123193294",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Precise hospital",
+        "name:it": "Precise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8675545,
+          -1.2596911
+        ]
+      },
+      "id": "node/1123193294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123201098",
+        "amenity": "hospital",
+        "name": "Urban rural initiative overal dev.health providers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8721282,
+          -1.2580157
+        ]
+      },
+      "id": "node/1123201098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1124602251",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lions health clinic mathare valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8659058,
+          -1.261479
+        ]
+      },
+      "id": "node/1124602251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1271155392",
+        "amenity": "hospital",
+        "check_date": "2023-05-23",
+        "name": "Jamko health clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7916908,
+          -1.293483
+        ]
+      },
+      "id": "node/1271155392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419005001",
+        "amenity": "hospital",
+        "name": "St Teresa Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8859079,
+          -1.3153006
+        ]
+      },
+      "id": "node/1419005001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419101746",
+        "amenity": "hospital",
+        "name": "Mukuru Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8871647,
+          -1.3222884
+        ]
+      },
+      "id": "node/1419101746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419101749",
+        "amenity": "hospital",
+        "name": "Mertenity clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8870659,
+          -1.3194392
+        ]
+      },
+      "id": "node/1419101749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419101775",
+        "amenity": "hospital",
+        "name": "Scion Health care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8921922,
+          -1.3279842
+        ]
+      },
+      "id": "node/1419101775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1453526846",
+        "amenity": "hospital",
+        "name": "Meridian Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8346498,
+          -1.3158117
+        ]
+      },
+      "id": "node/1453526846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585635168",
+        "addr:city": "Nairobi",
+        "addr:postcode": "00800",
+        "addr:street": "Police Dog Unit Road",
+        "amenity": "hospital",
+        "check_date": "2023-05-12",
+        "email": "info@stmmh.co.ke",
+        "healthcare": "hospital",
+        "name": "Saint Mary's Mission Hospital",
+        "phone": "+254 717305204",
+        "website": "https://stmmh.co.ke/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7744036,
+          -1.322328
+        ]
+      },
+      "id": "node/1585635168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1804804138",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "contact:email": "clinix@africaonline.co.ke",
+        "contact:phone": "0772191191",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "30",
+        "health_facility:referals": "KHN,Nairobi west hospital",
+        "health_facility:type": "Health clinic",
+        "healthcare": "hospital",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:clinical_officer": "1",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:medical_officer": "1",
+        "medical_staff:pharmacist": "1",
+        "name": "Clinic Healthcare Kibera Branch",
+        "opening_hours": "09:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7739346,
+          -1.3104547
+        ]
+      },
+      "id": "node/1804804138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1999653263",
+        "amenity": "hospital",
+        "name": "Medilink medical centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8707552,
+          -1.3117284
+        ]
+      },
+      "id": "node/1999653263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2001001163",
+        "amenity": "hospital",
+        "name": "RTI health centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8420619,
+          -1.3139158
+        ]
+      },
+      "id": "node/2001001163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2145329589",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "The AgaKhan University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8350221,
+          -1.3164881
+        ]
+      },
+      "id": "node/2145329589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2373149870",
+        "amenity": "hospital",
+        "health_facility:type": "chemist_over_the_counter",
+        "media:camera_device_number": "0",
+        "media:video_device_number": "0",
+        "media:video_number": "0",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:general_practitioner": "1",
+        "name": "GEOJAN CHEMIST",
+        "opening_hours": "08:00-20:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8589623,
+          -1.2542578
+        ]
+      },
+      "id": "node/2373149870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2373149871",
+        "amenity": "hospital",
+        "health_facility:type": "chemist_over_the_counter",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:dental_services": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:pharm_tech": "1",
+        "medical_staff:pharmacist": "1",
+        "name": "SINAI CHEMIST",
+        "opening_hours": "08:00-20:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8609509,
+          -1.2559436
+        ]
+      },
+      "id": "node/2373149871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378857096",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "health_facility:type": "chemist_dispensing",
+        "media:camera_device_number": "0",
+        "media:camera_number": "0",
+        "media:video_device_number": "0",
+        "media:video_number": "0",
+        "medical_service:family_planning": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_staff:pharmacist": "1",
+        "name": "Hope chemist",
+        "opening_hours": "06:30-21:30",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8610521,
+          -1.2614276
+        ]
+      },
+      "id": "node/2378857096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2389187318",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "health_facility:exam_room": "yes",
+        "health_facility:patients_per_day": "20-40",
+        "health_facility:referals": "YES",
+        "health_facility:type": "health_center;hospital",
+        "media:camera_device_number": "0",
+        "media:camera_number": "0",
+        "media:video_device_number": "0",
+        "media:video_number": "0",
+        "medical_service:antenatal_care": "yes",
+        "medical_service:circumcision": "yes",
+        "medical_service:condom_distribution": "yes",
+        "medical_service:dental_services": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:inpatient": "no",
+        "medical_service:minor_surgery": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:palliative_care": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:psychosocial_support_counselling": "yes",
+        "medical_service:sexually_transmitted_infections_management": "yes",
+        "medical_service:tb_labs": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "medical_staff:general_practitioner": "1",
+        "medical_staff:lab_tech": "1",
+        "medical_staff:nurse": "3",
+        "medical_staff:pharm_tech": "1",
+        "name": "ST. FRANCIS HEALTH SERVICES",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operational_status:electricity": "always",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8591679,
+          -1.254862
+        ]
+      },
+      "id": "node/2389187318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405836256",
+        "amenity": "hospital",
+        "name": "Kemrif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8934577,
+          -1.2419549
+        ]
+      },
+      "id": "node/2405836256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405854915",
+        "amenity": "hospital",
+        "name": "Green wood medical clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8796434,
+          -1.247564
+        ]
+      },
+      "id": "node/2405854915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3723146925",
+        "amenity": "hospital",
+        "name": "legacy dispensing chemist",
+        "name:it": "Legacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8922938,
+          -1.2460944
+        ]
+      },
+      "id": "node/3723146925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3723146927",
+        "amenity": "hospital",
+        "name": "lema dispensing chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8872415,
+          -1.2545455
+        ]
+      },
+      "id": "node/3723146927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4503896057",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "medical_service:condom_distribution": "no",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:outpatient": "yes",
+        "medical_service:pmtct": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "medical_service:vct_hiv_counselling_test": "yes",
+        "name": "Johana Justin Jinnich(Shofco Mathre)",
+        "opening_hours": "Mo-Fr 08:00-16:30; Sa 09:00-15:00",
+        "operational_status": "operational",
+        "operational_status:electricity": "never",
+        "operator:type": "ngo_national"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8578927,
+          -1.2633569
+        ]
+      },
+      "id": "node/4503896057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5372450531",
+        "addr:city": "Nairobi",
+        "addr:postcode": "00100",
+        "addr:street": "Langata Road",
+        "amenity": "hospital",
+        "email": "tmall.reception@aku.edu",
+        "healthcare": "hospital",
+        "name": "The Aga Khan Medical Centre Tmall",
+        "phone": "+25420 3662584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8168874,
+          -1.3121609
+        ]
+      },
+      "id": "node/5372450531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5704419900",
+        "amenity": "hospital",
+        "name": "medilink medical",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8686981,
+          -1.311401
+        ]
+      },
+      "id": "node/5704419900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6173489602",
+        "addr:city": "Nairobi",
+        "addr:street": "Kangaru Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aga Khan Hospital Komarock",
+        "phone": "+254 700744491",
+        "website": "https://www.agakhanhospitals.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9055678,
+          -1.2676453
+        ]
+      },
+      "id": "node/6173489602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6225467024",
+        "addr:city": "Nairobi",
+        "addr:street": "Shivachi Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dinesh Chandaria Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114972,
+          -1.2645234
+        ]
+      },
+      "id": "node/6225467024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6247215859",
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Neema Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8851084,
+          -1.2272103
+        ]
+      },
+      "id": "node/6247215859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6249063518",
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shekinah Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9006039,
+          -1.2185138
+        ]
+      },
+      "id": "node/6249063518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6249168537",
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "hospital",
+        "beds": "60",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "insurance:health": "private",
+        "name": "Kasarani Maternity",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "tag": "Antenatal care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9134342,
+          -1.2216349
+        ]
+      },
+      "id": "node/6249168537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6359782986",
+        "addr:city": "Nairobi",
+        "addr:street": "Manyanja Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Getrudes Children's Hospital Donholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8873731,
+          -1.2953701
+        ]
+      },
+      "id": "node/6359782986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930787276",
+        "amenity": "hospital",
+        "check_date": "2023-04-19",
+        "condition": "good",
+        "healthcare": "hospital",
+        "medical_service:outpatient": "yes",
+        "name": "Vipawa Medical clinic",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7851,
+          -1.3113383
+        ]
+      },
+      "id": "node/7930787276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930787281",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "condition": "fair",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590479562975.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "Nebtim Medical Center",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7785517,
+          -1.3120617
+        ]
+      },
+      "id": "node/7930787281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930787284",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "condition": "good",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590480389829.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "Al Khair Health Centre",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "mosque",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7761853,
+          -1.3088167
+        ]
+      },
+      "id": "node/7930787284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930813003",
+        "amenity": "hospital",
+        "check_date": "2023-04-03",
+        "condition": "good",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590653386802.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "AMUA Family health Clinic",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "AMUA",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7966933,
+          -1.3150767
+        ]
+      },
+      "id": "node/7930813003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930813007",
+        "amenity": "hospital",
+        "check_date": "2023-04-15",
+        "condition": "good",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590478002160.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "Kibera Health Centre",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7881533,
+          -1.306065
+        ]
+      },
+      "id": "node/7930813007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930813009",
+        "amenity": "hospital",
+        "check_date": "2023-05-02",
+        "condition": "good",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590483929877.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "CFK Maternity Home",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:description": "Carolina For Kibera",
+        "operator:type": "Carolina For Kibera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7793433,
+          -1.3124817
+        ]
+      },
+      "id": "node/7930813009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200590",
+        "amenity": "hospital",
+        "condition": "fair",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590416376276.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "Mlango Kubwa Health Centre",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8456917,
+          -1.2657867
+        ]
+      },
+      "id": "node/7952200590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200601",
+        "amenity": "hospital",
+        "condition": "good",
+        "health_amenity:type": "operating_theatre",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590480782230.jpg",
+        "medical_service:circumcision": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:outpatient": "yes",
+        "name": "The Jordon Hospital",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.845025,
+          -1.2650367
+        ]
+      },
+      "id": "node/7952200601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200603",
+        "amenity": "hospital",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1592657144932.jpg",
+        "medical_service:outpatient": "yes",
+        "name": "Muradi Medical Centre",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8547133,
+          -1.2636633
+        ]
+      },
+      "id": "node/7952200603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200604",
+        "amenity": "hospital",
+        "condition": "fair",
+        "health_amenity:type": "ultrasound",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590416214101.jpg",
+        "medical_service:circumcision": "yes",
+        "medical_service:outpatient": "yes",
+        "name": "Glory Hospital",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8454883,
+          -1.2657317
+        ]
+      },
+      "id": "node/7952200604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200606",
+        "amenity": "hospital",
+        "condition": "good",
+        "dispensing": "yes",
+        "healthcare": "hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590497851307.jpg",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:outpatient": "yes",
+        "name": "The Great Medical Hospital",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.845335,
+          -1.2653167
+        ]
+      },
+      "id": "node/7952200606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952200610",
+        "amenity": "hospital",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590483139613.jpg",
+        "medical_service:inpatient": "yes",
+        "medical_service:maternity": "yes",
+        "medical_service:tb_diagnosis": "yes",
+        "medical_service:tb_treatment": "yes",
+        "name": "Shofco Mathare Clinic",
+        "operational_status": "operational",
+        "operational_status:availability": "yes-always functions",
+        "operator:description": "Shofco",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.857965,
+          -1.263655
+        ]
+      },
+      "id": "node/7952200610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7993248585",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gertrude's Children's Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8322306,
+          -1.2561409
+        ]
+      },
+      "id": "node/7993248585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032765487",
+        "addr:street": "Magorofani",
+        "amenity": "hospital",
+        "health_amenity:type": "casualty",
+        "healthcare": "pharmacy",
+        "medical_service:inpatient": "yes",
+        "medical_service:maternity": "yes",
+        "medical_service:outpatient": "yes",
+        "name": "Total community Development Health Care",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8643022,
+          -1.2589272
+        ]
+      },
+      "id": "node/8032765487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100967919",
+        "addr:street": "Muratina Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pangani family Hospital",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.84421,
+          -1.2653666
+        ]
+      },
+      "id": "node/8100967919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100968017",
+        "addr:street": "Hot spot zone at mlango kubwa",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Glory Hospital",
+        "opening_hours": "Mo-Su 09:00-08:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8454841,
+          -1.2658106
+        ]
+      },
+      "id": "node/8100968017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8120540042",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bristol Park Hospital - Fedha",
+        "operator": "Unknown",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.896595,
+          -1.3132826
+        ]
+      },
+      "id": "node/8120540042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168754213",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bliss Medical Center Pipeline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8965208,
+          -1.317912
+        ]
+      },
+      "id": "node/8168754213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8371978935",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RFH HEALTHCARE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0048184,
+          -1.2743312
+        ]
+      },
+      "id": "node/8371978935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415763017",
+        "amenity": "hospital",
+        "beds": "40",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics;radiology",
+        "name": "Care Hospital",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8441006,
+          -1.2811463
+        ]
+      },
+      "id": "node/8415763017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415794217",
+        "amenity": "hospital",
+        "beds": "12",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatric_surgery",
+        "name": "Anka Hospital",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8481309,
+          -1.2775578
+        ]
+      },
+      "id": "node/8415794217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415873217",
+        "amenity": "hospital",
+        "beds": "3",
+        "healthcare": "hospital",
+        "name": "Afrismart Group of Hospitals LTD",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8937074,
+          -1.3183412
+        ]
+      },
+      "id": "node/8415873217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415888818",
+        "amenity": "hospital",
+        "beds": "0",
+        "healthcare": "hospital",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9757304,
+          -1.2616383
+        ]
+      },
+      "id": "node/8415888818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415951817",
+        "amenity": "hospital",
+        "beds": "2",
+        "healthcare": "hospital",
+        "name": "AIC Kijabe Hospital Nairobi Medical Centre",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7964808,
+          -1.2667439
+        ]
+      },
+      "id": "node/8415951817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415973117",
+        "amenity": "hospital",
+        "beds": "13",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Balozi Hospital LTD",
+        "opening_hours": "24/7",
+        "operational_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8457371,
+          -1.3202275
+        ]
+      },
+      "id": "node/8415973117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416012017",
+        "amenity": "hospital",
+        "beds": "2",
+        "healthcare": "hospital",
+        "name": "Brightstar Medical Centre",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.884371,
+          -1.284468
+        ]
+      },
+      "id": "node/8416012017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416025917",
+        "amenity": "hospital",
+        "beds": "45",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics",
+        "name": "Bristol Park Hospital Fedha",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8923199,
+          -1.3130358
+        ]
+      },
+      "id": "node/8416025917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416046117",
+        "amenity": "hospital",
+        "beds": "12",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics;radiology",
+        "name": "Bristol Park Hospital Utawala",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.965066,
+          -1.279414
+        ]
+      },
+      "id": "node/8416046117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416952117",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Drive-In Nursing Hospital (Ruaraka)",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operational_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.883031,
+          -1.226956
+        ]
+      },
+      "id": "node/8416952117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416952118",
+        "amenity": "hospital",
+        "beds": "0",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics",
+        "name": "Eastend Doctors",
+        "opening_hours": "Mo-Su 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8435184,
+          -1.2727366
+        ]
+      },
+      "id": "node/8416952118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8420940517",
+        "amenity": "hospital",
+        "beds": "3",
+        "healthcare": "hospital",
+        "name": "Gateway Health Care Thome",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operational_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8847124,
+          -1.2184586
+        ]
+      },
+      "id": "node/8420940517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8420950617",
+        "amenity": "hospital",
+        "beds": "0",
+        "healthcare": "hospital",
+        "name": "Garrison Health Centre",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operational_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8975698,
+          -1.3238004
+        ]
+      },
+      "id": "node/8420950617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8421000017",
+        "amenity": "hospital",
+        "beds": "20",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics;radiology",
+        "name": "Frontline Medical Consultants limited",
+        "opening_hours": "Mo-Fr 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.805975,
+          -1.295706
+        ]
+      },
+      "id": "node/8421000017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8429495818",
+        "amenity": "hospital",
+        "beds": "15",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;radiology",
+        "name": "Hayat Hospital",
+        "opening_hours": "24/7",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8420883,
+          -1.2741825
+        ]
+      },
+      "id": "node/8429495818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8429563117",
+        "addr:city": "Nairobi",
+        "addr:street": "Muratina Street",
+        "amenity": "hospital",
+        "beds": "70",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics;radiology",
+        "name": "Health Gate Hospital",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "phone": "+254 202355355",
+        "website": "https://healthgatehospital.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8461108,
+          -1.2796498
+        ]
+      },
+      "id": "node/8429563117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8435477417",
+        "amenity": "hospital",
+        "beds": "18",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Jahmii Kipawa Medical Centre",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operational_status": "unknown",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8779622,
+          -1.2525485
+        ]
+      },
+      "id": "node/8435477417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8476579218",
+        "amenity": "hospital",
+        "beds": "10",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Jemindas Nursing Home Limited",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.809828,
+          -1.2675001
+        ]
+      },
+      "id": "node/8476579218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8476649017",
+        "amenity": "hospital",
+        "beds": "46",
+        "healthcare": "hospital",
+        "name": "Jesse Kay Children's Hospital",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "operational_status": "operational",
+        "operator:type": "religious"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8860687,
+          -1.2158651
+        ]
+      },
+      "id": "node/8476649017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778559117",
+        "amenity": "hospital",
+        "name": "Mukuru Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8878712,
+          -1.3251657
+        ]
+      },
+      "id": "node/8778559117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8811903317",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Njiru Health Centre",
+        "phone": "+25420780909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9338202,
+          -1.2494578
+        ]
+      },
+      "id": "node/8811903317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8891929835",
+        "amenity": "hospital",
+        "healthcare": "dentist",
+        "name": "Provide International Korogocho",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8885,
+          -1.25026
+        ]
+      },
+      "id": "node/8891929835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8891939521",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Mwangaza Ulio na Tumaini Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8919,
+          -1.251073
+        ]
+      },
+      "id": "node/8891939521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8891939522",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Vission Medical clinic and maternity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8898,
+          -1.25023
+        ]
+      },
+      "id": "node/8891939522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8894604398",
+        "amenity": "hospital",
+        "name": "Cana Family Health Center",
+        "operational_status": "operational",
+        "operator": "ngo",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8805,
+          -1.30904
+        ]
+      },
+      "id": "node/8894604398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895124060",
+        "amenity": "hospital",
+        "description": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Melihep Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8704,
+          -1.31069
+        ]
+      },
+      "id": "node/8895124060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895124061",
+        "amenity": "hospital",
+        "description": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Olive Link Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8813,
+          -1.30895
+        ]
+      },
+      "id": "node/8895124061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895124062",
+        "amenity": "hospital",
+        "description": "hospital",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Cana Family Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8805,
+          -1.30904
+        ]
+      },
+      "id": "node/8895124062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895142480",
+        "amenity": "hospital",
+        "name": "Olive Link Medical Center",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8813,
+          -1.30895
+        ]
+      },
+      "id": "node/8895142480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8962983524",
+        "amenity": "hospital",
+        "description": "Hospital outside Korogocho community",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Mkunga Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8909245,
+          -1.2576963
+        ]
+      },
+      "id": "node/8962983524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8962983525",
+        "amenity": "hospital",
+        "area": "hospital outside korogocho community",
+        "description": "Hospital outside Korogocho community",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Ruaraka Uhai Neema Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.885157,
+          -1.2272208
+        ]
+      },
+      "id": "node/8962983525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8963780228",
+        "amenity": "hospital",
+        "description": "Hospital outside Viwandani community. Also offer transportation service",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Coptic Hospital Lunga Lunga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.86318,
+          -1.3083805
+        ]
+      },
+      "id": "node/8963780228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974070887",
+        "amenity": "hospital",
+        "name": "Lunga Lunga Health Center",
+        "operational_status": "operational",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8624078,
+          -1.310581
+        ]
+      },
+      "id": "node/8974070887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9002869889",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "17",
+        "addr:street": "Oluvimu Road",
+        "alt_name": "Nairobi South Hospital South C",
+        "alt_name:en": "The Nairobi South Hospital",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "The Nairobi South Hospital",
+        "website": "https://nairobisouthhospital.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8283841,
+          -1.3136574
+        ]
+      },
+      "id": "node/9002869889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136812246",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Mediplaza",
+        "addr:street": "3rd Parklands Avenue",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;gynaecology;paediatrics;dentist;orthopaedics;radiology;urology;physiotherapy;surgery;cardiology;neurology;plastic_surgery",
+        "name": "Mediheal Group of Hospitals - Parklands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8225785,
+          -1.2621628
+        ]
+      },
+      "id": "node/9136812246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800970628",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Real Hospital Utawala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9728427,
+          -1.2866612
+        ]
+      },
+      "id": "node/9800970628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800982577",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mediheal Utawala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.971493,
+          -1.2889759
+        ]
+      },
+      "id": "node/9800982577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207262846",
+        "addr:city": "Nairobi",
+        "addr:postcode": "00100",
+        "addr:street": "Kitengela Road",
+        "amenity": "hospital",
+        "email": "info@langatahospital.org",
+        "healthcare": "hospital",
+        "name": "Langata Hospital",
+        "phone": "+254 724485376",
+        "website": "https://langatahospital.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7891893,
+          -1.3276957
+        ]
+      },
+      "id": "node/10207262846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10274426409",
+        "amenity": "hospital",
+        "name": "Level 3",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.924436,
+          -1.2996266
+        ]
+      },
+      "id": "node/10274426409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600747318",
+        "amenity": "hospital",
+        "check_date": "2023-04-28",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;general",
+        "name": "Radiant Group of Hospitals Sportsview",
+        "operator:type": "private",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.912543,
+          -1.2225117
+        ]
+      },
+      "id": "node/10600747318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780885568",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "makina clinic centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7850263,
+          -1.3086989
+        ]
+      },
+      "id": "node/10780885568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780885594",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "beyond zero hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7915413,
+          -1.3144561
+        ]
+      },
+      "id": "node/10780885594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780885601",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "outreach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7927081,
+          -1.3115091
+        ]
+      },
+      "id": "node/10780885601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953105",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "nms hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7994565,
+          -1.3178294
+        ]
+      },
+      "id": "node/10780953105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953112",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "silanga healthcare centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7819015,
+          -1.3102354
+        ]
+      },
+      "id": "node/10780953112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953114",
+        "amenity": "hospital",
+        "check_date": "2023-03-16",
+        "healthcare": "hospital",
+        "name": "mater hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8272924,
+          -1.2880488
+        ]
+      },
+      "id": "node/10780953114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953118",
+        "amenity": "hospital",
+        "check_date": "2023-03-15",
+        "healthcare": "hospital",
+        "name": "shofco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7864907,
+          -1.3096775
+        ]
+      },
+      "id": "node/10780953118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953126",
+        "amenity": "hospital",
+        "check_date": "2023-03-16",
+        "healthcare": "hospital",
+        "name": "kenyatta national hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8085992,
+          -1.3010924
+        ]
+      },
+      "id": "node/10780953126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780953132",
+        "amenity": "hospital",
+        "check_date": "2023-03-16",
+        "healthcare": "hospital",
+        "name": "Nairobi hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8037051,
+          -1.2963897
+        ]
+      },
+      "id": "node/10780953132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10786945693",
+        "amenity": "hospital",
+        "check_date": "2023-04-05",
+        "healthcare": "hospital",
+        "name": "shofco hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7864801,
+          -1.3097371
+        ]
+      },
+      "id": "node/10786945693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10847142109",
+        "amenity": "hospital",
+        "check_date": "2023-04-28",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Kasarani",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9133541,
+          -1.2215622
+        ]
+      },
+      "id": "node/10847142109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10997396405",
+        "amenity": "hospital",
+        "name": "Utawala Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9743757,
+          -1.2890248
+        ]
+      },
+      "id": "node/10997396405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11001380325",
+        "amenity": "hospital",
+        "check_date": "2023-06-23",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;gynaecology",
+        "name": "Ironwood Hospital",
+        "operator:type": "private",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9276219,
+          -1.2289806
+        ]
+      },
+      "id": "node/11001380325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11152968842",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Emmanuel Community Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9489339,
+          -1.248791
+        ]
+      },
+      "id": "node/11152968842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183035537",
+        "amenity": "hospital",
+        "name": "Mama Margaret Uhuru Hosp[ital",
+        "operational_status": "operational",
+        "operator:type": "public",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8857836,
+          -1.2510086
+        ]
+      },
+      "id": "node/11183035537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11399675222",
+        "amenity": "hospital",
+        "contact:website": "https://vitalray.com",
+        "email": "info@vitalray.com",
+        "healthcare": "hospital",
+        "healthcare:speciality": "radiology",
+        "name": "Vital Rey Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8015213,
+          -1.2633057
+        ]
+      },
+      "id": "node/11399675222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11802137831",
+        "altitude": "1636.174",
+        "amenity": "hospital",
+        "name": "Edarp",
+        "opening_hours": "08:00",
+        "operational_status": "operational",
+        "operator": "church",
+        "operator:type": "religious",
+        "precision": "5.761",
+        "source": "KRCS2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8556602,
+          -1.2654684
+        ]
+      },
+      "id": "node/11802137831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12142202587",
+        "addr:city": "Nairobi",
+        "addr:street": "Dagoretti Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Karen Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7058936,
+          -1.3209008
+        ]
+      },
+      "id": "node/12142202587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244073036",
+        "amenity": "hospital",
+        "name": "pentacare hospital",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.873479,
+          -1.310614
+        ]
+      },
+      "id": "node/12244073036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244073037",
+        "amenity": "hospital",
+        "name": "bripa hospital",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8720542,
+          -1.3107693
+        ]
+      },
+      "id": "node/12244073037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244131029",
+        "amenity": "hospital",
+        "name": "Bripa hospital",
+        "operational_status": "operational",
+        "operator:type": "private",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8720542,
+          -1.3107693
+        ]
+      },
+      "id": "node/12244131029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12565389539",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "MVPW+987",
+        "addr:postcode": "00100",
+        "addr:street": "Fedha Mosque Road",
+        "amenity": "hospital",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61565790596034",
+        "email": "info@saretodentalclinic.co.ke",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentistry;dentist;dental_oral_maxillo_facial_surgery",
+        "mobile": "+254727653285",
+        "name": "Sareto Dental Clinic",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8958419,
+          -1.3142072
+        ]
+      },
+      "id": "node/12565389539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12567697902",
+        "amenity": "hospital",
+        "name": "Ability Therapy Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8010453,
+          -1.3036338
+        ]
+      },
+      "id": "node/12567697902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13304984616",
+        "amenity": "hospital",
+        "email": "unicorndental4@gmail.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist;orthodontics",
+        "mobile": "+254 702 290770",
+        "name": "Unicorn Dental Clinic - Utawala Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.957105,
+          -1.2843691
+        ]
+      },
+      "id": "node/13304984616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13305033890",
+        "amenity": "hospital",
+        "email": "unicorndental4@gmail.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist;orthodontics;paediatrics",
+        "mobile": "+254 711256747",
+        "name": "Unicorn Dental Clinic - Lang'ata Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7991798,
+          -1.321706
+        ]
+      },
+      "id": "node/13305033890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13460759531",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Fremo Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7228265,
+          -1.2894685
+        ]
+      },
+      "id": "node/13460759531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13460812447",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Penda Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7443098,
+          -1.2853474
+        ]
+      },
+      "id": "node/13460812447"
+    }
+  ]
+}
